@@ -3,22 +3,21 @@ home page
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/83458034/212712391-1f98713b-f302-4deb-a20b-146c99aeef2d.png">
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/83458034/212713948-df0ad357-7bc9-477c-bda7-4a0f8aa421e3.png">
 
-![image](https://user-images.githubusercontent.com/83458034/212710622-f26282d4-c22c-45be-adb1-013679acb60b.png)
-
-![image](https://user-images.githubusercontent.com/83458034/212710644-01c42e69-ec22-4c7b-86f3-7caf2d61bdd9.png)
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/83458034/212714047-5abf662a-30b8-4768-9a5e-3f65f4c97c19.png">
 
 login
 
-![image](https://user-images.githubusercontent.com/83458034/212710689-862d806d-bffe-48f5-bff1-dcd6dede31db.png)
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/83458034/212714167-d4f920c1-e7c7-4bf5-885d-c6ed1b6b3f2f.png">
 
 registration
 
-![image](https://user-images.githubusercontent.com/83458034/212710744-24074624-a66f-4f17-9699-a77f77b97fbe.png)
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/83458034/212714287-d7f7aaab-b163-440a-be9b-100a87d1d0d1.png">
 
 category
 
-![image](https://user-images.githubusercontent.com/83458034/212710810-705fa99e-9bb5-49ff-ba54-7ad68848a762.png)
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/83458034/212714543-936dfe2a-1779-4b65-8b32-4301764ddb8f.png">
 
 ![image](https://user-images.githubusercontent.com/83458034/212710841-aa313347-4673-48f1-8c5d-59679496ff2f.png)
 
@@ -30,7 +29,7 @@ category
 
 description page
 
-![image](https://user-images.githubusercontent.com/83458034/212711018-5b6859cf-daa1-4f94-8d68-90eebc1f22a1.png)
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/83458034/212714728-73a7ec53-4001-46a2-beba-f85b03c988e7.png">
 
 cart
 
