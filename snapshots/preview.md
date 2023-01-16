@@ -33,5 +33,6 @@ description page
 
 cart
 
-![image](https://user-images.githubusercontent.com/83458034/212711058-d04d33e9-7298-4214-a854-b866b5577f8d.png)
+<img width="519" alt="image" src="https://user-images.githubusercontent.com/83458034/212711654-872f9bcb-b785-4a51-975f-eb25b5732d3f.png">
+
 
