@@ -1,7 +1,8 @@
 
 home page 
 
-![image](https://user-images.githubusercontent.com/83458034/212710567-d8d63bde-874e-4e4a-b6df-3c235cae7e1e.png)
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/83458034/212712391-1f98713b-f302-4deb-a20b-146c99aeef2d.png">
+
 
 ![image](https://user-images.githubusercontent.com/83458034/212710622-f26282d4-c22c-45be-adb1-013679acb60b.png)
 
@@ -33,6 +34,7 @@ description page
 
 cart
 
-<img width="519" alt="image" src="https://user-images.githubusercontent.com/83458034/212711654-872f9bcb-b785-4a51-975f-eb25b5732d3f.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/83458034/212712255-27eb8a65-5b8f-4115-8a5d-45ba2cdb2399.png">
+
 
 
